@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 int addition(int a) {
-    return a+2;
+    return a+4;
 }
