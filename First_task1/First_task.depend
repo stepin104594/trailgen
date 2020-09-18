@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1600275913 source:c:\users\renuk\documents\codeblocks\first_task\main.c
+	<stdio.h>
+	"func.h"
+
+1600275538 source:c:\users\renuk\documents\codeblocks\first_task\func.c
+	<stdio.h>
+
+1600275686 c:\users\renuk\documents\codeblocks\first_task\func.h
+
+1600312973 source:d:\krishna\first_task\first_task\func.c
+	<stdio.h>
+
+1600312973 source:d:\krishna\first_task\first_task\main.c
+	<stdio.h>
+	"func.h"
+
+1600312973 d:\krishna\first_task\first_task\func.h
+
